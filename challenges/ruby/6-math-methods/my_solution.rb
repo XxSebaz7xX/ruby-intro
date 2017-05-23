@@ -1,11 +1,19 @@
 # Math Methods
 
 # Tu solucion abajo:
-
-def add(a,b)
-  a + b
+#Adition
+def add(num1,num2)
+	num1 + num2
 end
-
-def modulus(a,b)
-  a % b
+#Defference
+def subtract(num1,num2) 
+	num1 - num2
+end
+#Multiply
+def multiply(num1,num2)
+	num1 * num2	
+end
+#Divide
+def divide(num1,num2)
+	num1.to_f / num2.to_f	
 end
