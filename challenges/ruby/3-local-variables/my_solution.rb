@@ -2,15 +2,18 @@
 
 
 # Tu solucion abajo:
-
-num1 = 4
-num2 = 9
-
-sum = num2 + num1
+num1 = 18
+num2 = 1
+#Adition
+sum = num1 + num2
+#Diffrence 
 difference = num1 - num2
-quotient = num1.to_f / num2
-modulus = num1 % num2
+#Quotient
+quotient = num1.to_f / num2.to_f
+#Product
 product = num1 * num2
+#Modulus
+modulus = num1 % num2
 
 # Pruebas NO LAS BORRES
 
